@@ -1,0 +1,3 @@
+/Users/ethanhuang/Projects/AutomativeProgram/build/CMakeFiles/car_audio_can_sim.dir
+/Users/ethanhuang/Projects/AutomativeProgram/build/CMakeFiles/edit_cache.dir
+/Users/ethanhuang/Projects/AutomativeProgram/build/CMakeFiles/rebuild_cache.dir

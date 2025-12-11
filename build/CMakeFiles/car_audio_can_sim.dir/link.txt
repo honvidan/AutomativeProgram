@@ -1,0 +1,1 @@
+clang++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/car_audio_can_sim.dir/src/AudioAmplifierEcu.cpp.o CMakeFiles/car_audio_can_sim.dir/src/AudioToolClient.cpp.o CMakeFiles/car_audio_can_sim.dir/src/CanType.cpp.o CMakeFiles/car_audio_can_sim.dir/src/Diagnostics.cpp.o CMakeFiles/car_audio_can_sim.dir/src/main.cpp.o -o car_audio_can_sim
