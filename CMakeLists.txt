@@ -31,5 +31,5 @@ file(GLOB SOURCES
 # Create executable
 add_executable(car_audio_can_sim ${SOURCES})
 
-# Include headers from src/
-target_include_directories(car_audio_can_sim PRIVATE src)
+# Include headers from include/
+target_include_directories(car_audio_can_sim PRIVATE include)

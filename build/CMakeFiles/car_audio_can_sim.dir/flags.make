@@ -4,7 +4,7 @@
 # compile CXX with clang++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/ethanhuang/Projects/AutomativeProgram/src
+CXX_INCLUDES = -I/Users/ethanhuang/Projects/AutomativeProgram/include
 
 CXX_FLAGSarm64 = -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic
 
